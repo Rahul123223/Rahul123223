@@ -1,9 +1,11 @@
 # Rahul-GP
 <h1 align="center">Hi 👋, I'm Rahul Garud <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 	
+	⏳ I’m currently learning MERN Stack
+	
 <h4 align="left">A Full-stack web developer with hands-on experience in MERN stack. An effective collaborator with a strong work ethics and a passion for building user-centric products. Looking forward to the opportunity to work as a web developer in a growth-oriented organization.</h4>
 
-<h3 align="center">⏳ I’m currently learning MERN Stack</h3>
+
 
 <hr>
 
