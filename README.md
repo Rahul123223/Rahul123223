@@ -26,13 +26,13 @@
 <!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a> -->
-        <a href="https://rahul-garud-portfolio-3ddwzbw8e-rahul123223.vercel.app" target="_blank">
+        <a href="https://rahul-garud-portfolio-3ddwzbw8e-rahul123223.vercel.app" target="_blank>
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 <!-- 	<a href="#">
 		 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a> -->
-        <a href="mailto:write2rvgarud25@gmail.com">
+        <a href="mailto:write2rvgarud25@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
